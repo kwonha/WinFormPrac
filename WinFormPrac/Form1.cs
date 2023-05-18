@@ -19,7 +19,7 @@ namespace WinFormPrac
 
         private void label1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("반갑습니다~");
         }
     }
 }
